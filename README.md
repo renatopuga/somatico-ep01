@@ -2,7 +2,7 @@
 Amostras Extras da Análise Somática
 
 > [!TIP]
-> Busque conhecimento (ET Bilu)
+> Busquem conhecimento (ET Bilu)
 
 **chr19**
 
