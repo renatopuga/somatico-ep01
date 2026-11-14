@@ -9,6 +9,7 @@ Amostras Extras da Análise Somática
 Fazendo download do chr19
 
 ```bash
+# wget -c (continue)
 wget -c https://hgdownload.soe.ucsc.edu/goldenPath/hg19/chromosomes/chr19.fa.gz
 ```
 
