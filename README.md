@@ -4,13 +4,13 @@ Amostras Extras da Análise Somática
 > [!TIP]
 > Busquem conhecimento (ET Bilu)
 
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
+```bash
+# Clonar o repositório com os ficheiros BAM
+git clone https://github.com/renatopuga/somatico.git
 
+# Entrar na pasta do projeto
+cd somatico
+````
 
 
 **chr19**
