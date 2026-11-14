@@ -1,7 +1,13 @@
 # somatico-ep01
 Amostras Extras da Análise Somática
 
-# chr19
+> [!TIP]
+> Busque conhecimento (ET Bilu)
+
+**chr19**
+
+Fazendo download do chr19
+
 ```bash
 wget -c https://hgdownload.soe.ucsc.edu/goldenPath/hg19/chromosomes/chr19.fa.gz
 ```
