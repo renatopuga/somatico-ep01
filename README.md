@@ -4,10 +4,12 @@ Amostras Extras da Análise Somática
 > [!TIP]
 > Busquem conhecimento (ET Bilu)
 
-output
-
-> Testando a criação de um bloco
-> E tudo que pode ficar aqui dentro.
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
 
 
 
