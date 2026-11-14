@@ -4,6 +4,13 @@ Amostras Extras da Análise Somática
 > [!TIP]
 > Busquem conhecimento (ET Bilu)
 
+output
+```
+Testa
+```
+
+
+
 **chr19**
 
 Fazendo download do chr19
