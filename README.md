@@ -4,6 +4,14 @@ Amostras Extras da Análise Somática
 > [!TIP]
 > Busquem conhecimento (ET Bilu)
 
+
++----+-----------+-----------+----+----+
+| 13 | 115169878 | 4         | 50 | 51 |
++----+-----------+-----------+----+----+
+| 19 | 59128983  | 117473284 | 50 | 51 |
++----+-----------+-----------+----+----+
+
+
 ```bash
 # Clonar o repositório com os ficheiros BAM
 git clone https://github.com/renatopuga/somatico.git
